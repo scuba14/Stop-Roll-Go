@@ -9,8 +9,6 @@
 
 ## Testen
 
-Für das Testen des Programmcodes ist eine proprietäre Version von ASCET-DEVELOPER erforderlich.
-
 Zum Testen sollte folgende Schritt für Schritt Anweisungen durchgeführt werden:
 
 1. Source-Code im Zip-Format herunterladen
