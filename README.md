@@ -21,9 +21,6 @@ Zum Testen sollte folgende Schritt für Schritt Anweisungen durchgeführt werden
 
 ### Dokumentation
 
-Die Aufgabenstellung von Dr. Kai Pinnow:
-[Aufgabenstellung] (Aufgabenstellung.pdf)
-
-Ausführliche Dokumentation des Projekts:
-[Dokumentation] (Dokumentation.pdf)
+[Aufgabenstellung](/Aufgabenstellung.pdf)
+[Dokumentation](/Dokumentation.pdf)
 
