@@ -19,5 +19,4 @@ Zum Testen sollte folgende Schritt für Schritt Anweisungen durchgeführt werden
 
 ## Dokumentation
 
-* [Aufgabenstellung](/Aufgabenstellung.pdf)
 * [Dokumentation](/Dokumentation.pdf)
